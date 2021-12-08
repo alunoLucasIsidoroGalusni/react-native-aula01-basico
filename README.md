@@ -1,1 +1,1 @@
-Projeto base para Introdução ao React Native
+Projeto final de pam do bimestre 2, aplicativo para ver opiniões sobre sonic forces
